@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mugglejinx.github.io/al-folio/sitemap.xml
+Sitemap: https://mugglejinx.github.io/sitemap.xml
